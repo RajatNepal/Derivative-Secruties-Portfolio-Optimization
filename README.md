@@ -1,6 +1,6 @@
-# InvestmentBankDerivativesResearchSimmulation
+# Derivative Securities Portfolio Optimization
 
-- Final Project for Financial Economics II at University College Dublin
+- Final Project for Financial Economics II at University College Dublin Lochlann Quinn School of Business
   
 - Equivalent to Options/Futures/Derivatives Securities at US Schools.
   
